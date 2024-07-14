@@ -1,12 +1,12 @@
 # JavaSeleniumCucumberBDD
+<br />
+Industry std application (AUT) <br />
+DD + POM (Page factory) ==> Hybrid <br />
+Parallel execution (driver, extent report, data read) <br />
+Interact of DB, email <br />
+Selenium Grid --> Docker machine / GCP / Browrstack <br />
+Jenkins --> email <br />
+CICD <br />
+JIRA integration  <br />
 
-\n Industry std application (AUT)
-\n DD + POM (Page factory) ==> Hybrid
-Parallel execution (driver, extent report, data read)
-Interact of DB, email
-Selenium Grid --> Docker machine / GCP / Browrstack
-Jenkins --> email
-CICD
-JIRA integration 
-
-If test fails --> automatically defect creation 
+If test fails --> automatically defect creation <br />
