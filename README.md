@@ -7,6 +7,6 @@ Interact of DB, email <br />
 Selenium Grid --> Docker machine / GCP / Browrstack <br />
 Jenkins --> email <br />
 CICD <br />
-JIRA integration  <br />
+JIRA integration  <br /> <br /> <br />
 
 If test fails --> automatically defect creation <br />
