@@ -1,7 +1,7 @@
 # JavaSeleniumCucumberBDD
 
-Industry std application (AUT)
-DD + POM (Page factory) ==> Hybrid
+\n Industry std application (AUT)
+\n DD + POM (Page factory) ==> Hybrid
 Parallel execution (driver, extent report, data read)
 Interact of DB, email
 Selenium Grid --> Docker machine / GCP / Browrstack
