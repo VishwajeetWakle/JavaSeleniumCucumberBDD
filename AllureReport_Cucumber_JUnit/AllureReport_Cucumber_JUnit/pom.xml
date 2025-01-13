@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
  
   <groupId>com.example</groupId>
-  <artifactId>AllureReport_Cucumber_TestNG</artifactId>
+  <artifactId>AllureReport_Cucumber_Junit</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
  
